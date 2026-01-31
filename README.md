@@ -1,7 +1,5 @@
 
-This looks like a solid implementation of a neural network solving the classic XOR problem! Since you've successfully used PyTorch to handle a non-linearly separable problem—which a single layer couldn't do—the README should reflect that technical milestone.
 
-Here is a professional README.md file tailored to your code:
 
 XOR-AI: Solving Non-Linear Logic with PyTorch
 A lightweight neural network implemented in Python using PyTorch to solve the Exclusive OR (XOR) logic gate problem.
@@ -45,5 +43,6 @@ The model consists of:
 Input Layer: 2 neurons (representing the two binary inputs).
 
 Hidden Layer: 4 neurons with Sigmoid activation.
+
 
 Output Layer: 1 neuron with Sigmoid activation (producing a probability between 0 and 1).
